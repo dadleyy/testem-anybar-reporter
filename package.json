@@ -1,0 +1,21 @@
+{
+  "name": "testem-anybar-reporter",
+  "version": "0.0.1",
+  "description": "A reporter that posts results to anybar",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "testem",
+    "anybar"
+  ],
+  "author": "Danny Hadley <dadleyy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nanybar": "^1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.3.0"
+  }
+}
